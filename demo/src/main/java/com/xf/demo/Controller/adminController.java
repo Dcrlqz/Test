@@ -12,4 +12,5 @@ public class adminController {
     public String admin(){
         return "这是用户信息";
     }
+
 }
