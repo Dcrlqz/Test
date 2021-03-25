@@ -13,9 +13,4 @@ public class adminController {
         return "这是用户信息";
     }
 
-    @GetMapping("/admin")
-    public String admininfo(){
-        return "这是用户信息";
-    }
-
 }
