@@ -12,4 +12,9 @@ public class adminController {
     public String admin(){
         return "这是用户信息";
     }
+
+    @GetMapping("/adminInf1")
+    public String admin1(){
+        return "这是用户信息";
+    }
 }
