@@ -17,11 +17,6 @@
       <option name="url" value="http://nexus.xingfa.com/repository/fc-releases/" />
     </remote-repository>
     <remote-repository>
-      <option name="id" value="jboss.community" />
-      <option name="name" value="JBoss Community repository" />
-      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
-    </remote-repository>
-    <remote-repository>
       <option name="id" value="xingfa-maven-public" />
       <option name="name" value="�˷���Դ����˽�вֿ�-����" />
       <option name="url" value="http://nexus.xingfa.com/repository/maven-public/" />
@@ -30,6 +25,11 @@
       <option name="id" value="xingfa-releases-snapshots" />
       <option name="name" value="�˷�����˽�вֿ�-����" />
       <option name="url" value="http://nexus.xingfa.com/repository/fc-snapshot/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
     </remote-repository>
   </component>
 </project>
